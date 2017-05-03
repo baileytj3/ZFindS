@@ -53,3 +53,8 @@ Install the package.
 
     git clone https://github.com/baileytj3/ZFindS
     python ZFindS/setup.py install
+
+# Usage
+
+    $ zfinds <options> <method> <path to disk>
+    $ zfinds -h
