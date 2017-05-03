@@ -49,7 +49,7 @@ Install ZFSpy dependancy.
 ## Install ZFindS
 
 Clone the github repository.
-Install the package via pip.
+Install the package.
 
     git clone https://github.com/baileytj3/ZFindS
     python ZFindS/setup.py install
