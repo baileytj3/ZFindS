@@ -2,7 +2,7 @@
 
 ZFindS is a command line tool that can be used to attempt to recover previous
 versions of files on disk, or files that have been deleted but yet still remain
-on disk.
+on disk for ZFS file systems.
 
 ## Supported recovery methods
 
