@@ -44,7 +44,8 @@ being scanned.
 Install ZFSpy dependancy.
 
     git clone https://github.com/nkchenz/zfspy
-    python zfspy/setup.py install
+    cd zfspy
+    python setup.py install
 
 ## Install ZFindS
 
@@ -52,7 +53,8 @@ Clone the github repository.
 Install the package.
 
     git clone https://github.com/baileytj3/ZFindS
-    python ZFindS/setup.py install
+    cd ZFindS
+    python setup.py install
 
 # Usage
 
