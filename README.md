@@ -58,3 +58,12 @@ Install the package.
 
     $ zfinds <options> <method> <path to disk>
     $ zfinds -h
+
+# Limitations
+
+ZFindS currently does not support the following:
+
+ * ZFS version > 1
+ * Encryption
+ * Compression
+ * More than 1 vdev in a ZPool
